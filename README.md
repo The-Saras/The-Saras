@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The-Saras
 - 👀 I’m interested in Python,Django,Node,React and Unity
-- 🌱 I’m currently learning Unity and React Js...
+- 🌱 I’m currently learning Node js and React js...
 - 📫 You can reach me through - sarasjjoshi@gmail.com
 
 <!---
